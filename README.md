@@ -12,7 +12,7 @@ I'm Charan and I'm an Aspiring Young Full-Stack Web-Developer with a solid inten
 * 🚀  I'm currently working on [Fable - A Web-Hub for your short stories (MERN Stack)](http://github.com/Charancherry005/fable)
 * 🧠  I'm learning React, Redux, Vue JS, GraphQL, Redis
 * 🤝  I'm open to collaborating on Full Stack Web Development related Projects (MERN Stack)
-* ⚡  if there are two skills that can describe me... it's Listening and Observing!
+* ⚡  if there are two skills that can describe me... it's Listening and Learning!
 
 ### Skills
 
